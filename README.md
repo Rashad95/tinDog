@@ -1,3 +1,3 @@
 # tinDog
 
-## https://rashad95.github.io/tinDog/
+### https://rashad95.github.io/tinDog/
